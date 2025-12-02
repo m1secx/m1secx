@@ -39,7 +39,7 @@ I am currently organizing and publishing several internal and learning projects:
 
 ## 📫 Contact
 - **Twitter:** [@mehmetincealan](https://twitter.com/mehmetincealan)
-- **LinkedIn:** [(optional – if you want, add it)](https://www.linkedin.com/in/mehmetincealan/)
+- **LinkedIn:** [(Linkedin)](https://www.linkedin.com/in/mehmetincealan/)
 - **Email:** (optional) mehmetincealan@protonmail.com
 
 ---
